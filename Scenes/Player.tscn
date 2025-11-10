@@ -1,0 +1,16 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Scripts/Player.cs" type="Script" id=1]
+[ext_resource path="res://Assets/Sprites/Hornet.png" type="Texture2D" id=2]
+
+[node name="Player" type="KinematicBody2D"]
+script = ExtResource( 1 )
+sprite = SubResource( 2 )
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = ExtResource( 2 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = {"d": "CircleShape2D", "r": 16.0}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
