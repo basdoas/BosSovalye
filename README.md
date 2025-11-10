@@ -2,13 +2,22 @@
 
 Hollow Knight tarzı 2D bir oyun, Godot ve C# ile geliştiriliyor.
 
-## Nasıl Oynanır
-- **A/D** veya **Sol/Sağ Ok**: Yürü
-- **W** veya **Yukarı Ok**: Zıpla
+## Kurulum
+1. Godot Engine’i indirin: [https://godotengine.org](https://godotengine.org)
+2. Projeyi klonlayın:
+   ```bash
+   git clone https://github.com/basdoas/BosSovalye.git
+   ```
+3. Godot’da `project.godot` dosyasını açın.
+
+## Oyun Kontrolleri
+- **A/D**: Yürüme
+- **W**: Zıplama
+- **Space**: Saldırma
 
 ## Proje Yapısı
+- `Scenes/`: Oyun sahneleri
 - `Scripts/`: Oyun kodları
-- `Scenes/`: Sahneler
 - `Assets/`: Görseller ve sesler
 
 ## Katkıda Bulunma
