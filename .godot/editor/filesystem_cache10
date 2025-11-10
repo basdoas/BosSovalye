@@ -2,8 +2,9 @@
 ::res://::1762716182
 icon.svg::CompressedTexture2D::5743014883098842745::1762715223::1762715825::1::::<><><>0<>0<>0b2635772533cca8d90bc1fcfe4a085e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1762715714::0::1::::<><><>0<>0<><>::
-::res://Assets/::1762767343
-hornet.png::CompressedTexture2D::4746443831525028898::1762767524::1762767527::1::::<><><>0<>0<>3fbd5ae65a2c29f5f76c42a7464a78b2<>res://.godot/imported/hornet.png-67806086164b6981b1fb4716ee10d7be.ctex::
+::res://Assets/::1762767689
+::res://Assets/sprites/::1762767689
+hornet.png::CompressedTexture2D::4746443831525028898::1762767524::1762767694::1::::<><><>0<>0<>acb82e9e9fac9141e1270c5486d65410<>res://.godot/imported/hornet.png-f494bd03a187921548e33fae9dc79dfc.ctex::
 ::res://scenes/::1762716165
 level1.tscn::PackedScene::4683783905620792357::1762716165::0::1::::<><><>0<>0<><>::
 ::res://Scripts/::1762716165

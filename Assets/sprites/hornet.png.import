@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8vhiblc0njd7"
-path="res://.godot/imported/hornet.png-67806086164b6981b1fb4716ee10d7be.ctex"
+path="res://.godot/imported/hornet.png-f494bd03a187921548e33fae9dc79dfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/hornet.png"
-dest_files=["res://.godot/imported/hornet.png-67806086164b6981b1fb4716ee10d7be.ctex"]
+source_file="res://Assets/sprites/hornet.png"
+dest_files=["res://.godot/imported/hornet.png-f494bd03a187921548e33fae9dc79dfc.ctex"]
 
 [params]
 
