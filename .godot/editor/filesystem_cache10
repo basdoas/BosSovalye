@@ -1,7 +1,11 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1762715933
+::res://::1762716182
 icon.svg::CompressedTexture2D::5743014883098842745::1762715223::1762715825::1::::<><><>0<>0<>0b2635772533cca8d90bc1fcfe4a085e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1762715714::0::1::::<><><>0<>0<><>::
-::res://Scripts/::1762715714
-Enemy.cs::CSharpScript::2993732641329404084::1762715714::0::1::::<><><>0<>0<><>::
+::res://Assets/::1762767343
+hornet.png::CompressedTexture2D::4746443831525028898::1762767524::1762767527::1::::<><><>0<>0<>3fbd5ae65a2c29f5f76c42a7464a78b2<>res://.godot/imported/hornet.png-67806086164b6981b1fb4716ee10d7be.ctex::
+::res://scenes/::1762716165
+level1.tscn::PackedScene::4683783905620792357::1762716165::0::1::::<><><>0<>0<><>::
+::res://Scripts/::1762716165
+Enemy.cs::CSharpScript::2993732641329404084::1762716165::0::1::::<><><>0<>0<><>::
 Player.cs::CSharpScript::2998818264382745411::1762715714::0::1::::<><><>0<>0<><>::
