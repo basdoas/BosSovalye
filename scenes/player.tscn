@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dnt3she0rsy6w"]
+
+[ext_resource type="Texture2D" uid="uid://b8vhiblc0njd7" path="res://Assets/sprites/hornet.png" id="1_3vyb7"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(505, 341.25006)
+scale = Vector2(0.08888891, 0.08037043)
+texture = ExtResource("1_3vyb7")
